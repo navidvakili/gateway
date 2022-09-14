@@ -52,8 +52,10 @@ return [
     // IranKish gateway
     //--------------------------------
     'irankish' => [
-        'merchantId' => 'xxxxxxxxxxxxxxxxxxxx',
-        'sha1key' => 'xxxxxxxxxxxxxxxxxxxx',
+        'terminalID' => 'xxxxxxxxxxxxxxxxxxxx',
+        'acceptorId' => 'xxxxxxxxxxxxxxxxxxxx',
+        'password' => 'xxxxxxxxxxxxxxxxxxxx',
+        'pubkey' => 'xxxxxxxxxxxxxxxxxxxx', 
         'callback-url' => '/'
     ],
 
