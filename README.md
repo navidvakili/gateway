@@ -1,9 +1,7 @@
 <div dir="rtl">
 
 
-```
-متاسفانه این پکیج دیگر پشتیبانی نمی شود
-```
+
 
 پکیج اتصال به تمامی IPG ها و  بانک های ایرانی.
 
@@ -37,7 +35,7 @@
 
 ```php
 
-composer require larabook/gateway
+composer require navidvakili/gateway
 
 ```   
 
